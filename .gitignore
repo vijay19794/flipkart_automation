@@ -1,0 +1,20 @@
+# Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs & reports
+*.log
+/logs/
+/test-output/
+
+# OS
+.DS_Store
+Thumbs.db
