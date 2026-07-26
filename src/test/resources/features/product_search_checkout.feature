@@ -6,7 +6,6 @@ Feature: Flipkart product search and checkout validation
 
   Background:
     Given the user is on the Flipkart home page
-    
 
   @search
   Scenario: Validate that search results match the searched keyword
